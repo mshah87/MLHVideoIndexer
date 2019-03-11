@@ -7,6 +7,6 @@ Video Indexer sing MLH Videoindexer.ai, Node.js, Express.js, and Microsoft Azure
 
 # Links 
 
-* [LinkedIn](#https://www.linkedin.com/in/fchishtie/)
+* [LinkedIn](https://www.linkedin.com/in/fchishtie/)
 
 
